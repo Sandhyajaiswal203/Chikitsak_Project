@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67ec159f7bb981697eb71245"
+  },
+  "userId": {
+    "$oid": "67ec108a7bb981697eb7123e"
+  },
+  "doctorId": {
+    "$oid": "67ec0fae7bb981697eb71236"
+  },
+  "date": "2025-04-05",
+  "time": "11:00 AM",
+  "status": "confirmed"
+},
+{
+  "_id": {
+    "$oid": "67ec159f7bb981697eb71246"
+  },
+  "userId": {
+    "$oid": "67ec108a7bb981697eb71240"
+  },
+  "doctorId": {
+    "$oid": "67ec0fae7bb981697eb71239"
+  },
+  "date": "2025-04-07",
+  "time": "2:00 PM",
+  "status": "pending"
+}]

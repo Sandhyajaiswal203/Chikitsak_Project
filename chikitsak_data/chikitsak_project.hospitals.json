@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "67ec102e7bb981697eb7123b"
+  },
+  "name": "Apollo Hospital",
+  "location": "Indore, Madhya Pradesh",
+  "address": "Ring Road, Indore, MP - 452001",
+  "contact": "0731-1234567",
+  "doctors": []
+},
+{
+  "_id": {
+    "$oid": "67ec102e7bb981697eb7123c"
+  },
+  "name": "CHL Hospital",
+  "location": "Indore, Madhya Pradesh",
+  "address": "AB Road, Indore, MP - 452002",
+  "contact": "0731-9876543",
+  "doctors": []
+},
+{
+  "_id": {
+    "$oid": "67ec102e7bb981697eb7123d"
+  },
+  "name": "Medanta Hospital",
+  "location": "Indore, Madhya Pradesh",
+  "address": "Vijay Nagar, Indore, MP - 452003",
+  "contact": "0731-7654321",
+  "doctors": []
+}]

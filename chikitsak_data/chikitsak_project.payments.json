@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "67ec167d7bb981697eb71247"
+  },
+  "userId": {
+    "$oid": "67ec108a7bb981697eb7123e"
+  },
+  "doctorId": {
+    "$oid": "67ec0fae7bb981697eb71236"
+  },
+  "appointmentId": {
+    "$oid": "67ec159f7bb981697eb71245"
+  },
+  "amount": 500,
+  "status": "completed",
+  "method": "UPI"
+},
+{
+  "_id": {
+    "$oid": "67ec167d7bb981697eb71248"
+  },
+  "userId": {
+    "$oid": "67ec108a7bb981697eb71240"
+  },
+  "doctorId": {
+    "$oid": "67ec0fae7bb981697eb71239"
+  },
+  "appointmentId": {
+    "$oid": "67ec159f7bb981697eb71246"
+  },
+  "amount": 700,
+  "status": "pending",
+  "method": "Credit Card"
+}]

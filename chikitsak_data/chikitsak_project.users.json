@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "67ec108a7bb981697eb7123e"
+  },
+  "name": "Rahul Sharma",
+  "email": "rahul@gmail.com",
+  "password": "hashedpassword",
+  "gender": "Male",
+  "phone": "9876543210",
+  "address": {
+    "line1": "MG Road",
+    "line2": "Indore"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ec108a7bb981697eb7123f"
+  },
+  "name": "Priya Gupta",
+  "email": "priya@gmail.com",
+  "password": "hashedpassword",
+  "gender": "Female",
+  "phone": "9876543221",
+  "address": {
+    "line1": "Rajwada",
+    "line2": "Indore"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ec108a7bb981697eb71240"
+  },
+  "name": "Amit Verma",
+  "email": "amit@gmail.com",
+  "password": "hashedpassword",
+  "gender": "Male",
+  "phone": "9876543332",
+  "address": {
+    "line1": "Sapna Sangeeta",
+    "line2": "Indore"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ec108a7bb981697eb71241"
+  },
+  "name": "Neha Dubey",
+  "email": "neha@gmail.com",
+  "password": "hashedpassword",
+  "gender": "Female",
+  "phone": "9876544443",
+  "address": {
+    "line1": "Palasia",
+    "line2": "Indore"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ec108a7bb981697eb71242"
+  },
+  "name": "Vikas Jain",
+  "email": "vikas@gmail.com",
+  "password": "hashedpassword",
+  "gender": "Male",
+  "phone": "9876545554",
+  "address": {
+    "line1": "Sudama Nagar",
+    "line2": "Indore"
+  }
+}]
