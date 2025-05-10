@@ -1,1 +1,0 @@
-# Chikitsak_Project
