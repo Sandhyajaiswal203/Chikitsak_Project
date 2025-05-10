@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "67ec0fae7bb981697eb71236"
+  },
+  "name": "Dr. Aman Verma",
+  "email": "amanverma@gmail.com",
+  "password": "hashedpassword",
+  "image": "doctor1.jpg",
+  "speciality": "Cardiologist",
+  "degree": "MBBS, MD",
+  "experience": "10 years",
+  "about": "Expert in heart-related issues.",
+  "available": true,
+  "fees": 500,
+  "address": {
+    "city": "Indore",
+    "state": "MP",
+    "pincode": 452001
+  },
+  "location": "Indore, Madhya Pradesh",
+  "status": "1"
+},
+{
+  "_id": {
+    "$oid": "67ec0fae7bb981697eb71237"
+  },
+  "name": "Dr. Neha Sharma",
+  "email": "nehasharma@gmail.com",
+  "password": "hashedpassword",
+  "image": "doctor2.jpg",
+  "speciality": "Dermatologist",
+  "degree": "MBBS, MD (Skin)",
+  "experience": "7 years",
+  "about": "Skin and Hair Specialist.",
+  "available": false,
+  "fees": 700,
+  "address": {
+    "city": "Indore",
+    "state": "MP",
+    "pincode": 452002
+  },
+  "location": "Indore, Madhya Pradesh",
+  "status": "1"
+},
+{
+  "_id": {
+    "$oid": "67ec0fae7bb981697eb71238"
+  },
+  "name": "Dr. Rakesh Mehta",
+  "email": "rakeshmehta@gmail.com",
+  "password": "hashedpassword",
+  "image": "doctor3.jpg",
+  "speciality": "Orthopedic",
+  "degree": "MBBS, MS",
+  "experience": "12 years",
+  "about": "Specialist in bone and joint treatments.",
+  "available": true,
+  "fees": 600,
+  "address": {
+    "city": "Indore",
+    "state": "MP",
+    "pincode": 452003
+  },
+  "location": "Indore, Madhya Pradesh",
+  "status": "0"
+},
+{
+  "_id": {
+    "$oid": "67ec0fae7bb981697eb71239"
+  },
+  "name": "Dr. Kavita Jain",
+  "email": "kavitajain@gmail.com",
+  "password": "hashedpassword",
+  "image": "doctor4.jpg",
+  "speciality": "Gynecologist",
+  "degree": "MBBS, MS",
+  "experience": "8 years",
+  "about": "Women healthcare and pregnancy specialist.",
+  "available": true,
+  "fees": 650,
+  "address": {
+    "city": "Indore",
+    "state": "MP",
+    "pincode": 452004
+  },
+  "location": "Indore, Madhya Pradesh",
+  "status": "0"
+},
+{
+  "_id": {
+    "$oid": "67ec0fae7bb981697eb7123a"
+  },
+  "name": "Dr. Rajat Dubey",
+  "email": "rajatdubey@gmail.com",
+  "password": "hashedpassword",
+  "image": "doctor5.jpg",
+  "speciality": "Pediatrician",
+  "degree": "MBBS, MD (Pediatrics)",
+  "experience": "6 years",
+  "about": "Child specialist and neonatology expert.",
+  "available": false,
+  "fees": 550,
+  "address": {
+    "city": "Indore",
+    "state": "MP",
+    "pincode": 452005
+  },
+  "location": "Indore, Madhya Pradesh",
+  "status": "1"
+}]

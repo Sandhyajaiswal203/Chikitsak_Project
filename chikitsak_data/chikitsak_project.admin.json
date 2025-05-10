@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "681f6cd6dc4db51d42b71239"
+  },
+  "name": "Chikitsak Admin",
+  "email": "admin@chikitsak.com",
+  "password": "admin123",
+  "phone": "9634567898",
+  "role": "admin",
+  "status": "1"
+},
+{
+  "_id": {
+    "$oid": "681f6cd6dc4db51d42b7123a"
+  },
+  "name": "Sandhya Jaiswal",
+  "email": "sandhya@chikitsak.com",
+  "password": "admin456",
+  "phone": "8888888888",
+  "role": "admin",
+  "status": "0"
+},
+{
+  "_id": {
+    "$oid": "681f6cd6dc4db51d42b7123b"
+  },
+  "name": "Tanuj Mishra",
+  "email": "tanuj@chikitsak.com",
+  "password": "admin789",
+  "phone": "8456789432",
+  "role": "admin",
+  "status": "1"
+}]
